@@ -29,6 +29,3 @@ log("Has Driver Licence: " + person.hasDriverLicence);
 log("Address" + JSON.stringify(person.address));
 
 log(Object.values(person));
-
-
-
