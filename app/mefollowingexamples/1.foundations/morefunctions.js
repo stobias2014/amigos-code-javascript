@@ -15,4 +15,3 @@ log("Saul".toLowerCase());
 log("Saul".toUpperCase());
 log("Saul".endsWith("Saul"));
 log("Saul".startsWith("Saul"));
-
