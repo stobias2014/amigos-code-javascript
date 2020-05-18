@@ -22,4 +22,3 @@ function addNumbersReturnValue(num1, num2) {
 addNumbers(5, 4);
 addNumbers(3, 3);
 log(addNumbersReturnValue(2, 2));
-
